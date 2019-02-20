@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2015"],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "jsx": "react"
+  },
+  "include": ["./src/*.ts", "./src/*.tsx"],
+  "exclude": ["node_modules", "dist"]
+}
