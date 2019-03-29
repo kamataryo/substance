@@ -21,6 +21,7 @@
     ]
   },
   "devDependencies": {
+    "@types/node": "^11.9.4",
     "ava": "^1.2.1",
     "eslint": "^5.14.0",
     "eslint-config-prettier": "^4.0.0",
